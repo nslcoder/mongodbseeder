@@ -1,0 +1,14 @@
+{
+  "name": "mongodbseeder",
+  "version": "1.0.0",
+  "description": "A MongoDB database seeding program",
+  "main": "seeder.js",
+  "scripts": {
+    "seed": "node seeder.js"
+  },
+  "author": "nslcoder",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.1.8"
+  }
+}
